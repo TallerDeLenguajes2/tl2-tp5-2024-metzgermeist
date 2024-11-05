@@ -1,0 +1,6 @@
+@tl2_tp5_2024_metzgermeist_HostAddress = http://localhost:5299
+
+GET {{tl2_tp5_2024_metzgermeist_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
